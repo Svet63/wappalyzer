@@ -519,9 +519,7 @@
       "js": {
         "AWIN.Tracking": ""
       },
-      "pricing": [
-        "payg"
-      ],
+      "pricing": ["payg"],
       "saas": true,
       "scripts": "dwin1\\.com",
       "website": "https://www.awin.com"
@@ -5167,6 +5165,8 @@
       "js": {
         "recommendationContext": ""
       },
+      "saas": true,
+      "pricing": ["poa"],
       "scripts": "cdn\\.dynamicyield\\.\\w+/",
       "website": "https://www.dynamicyield.com"
     },
@@ -13528,6 +13528,7 @@
         "rakutenRanMID": "",
         "rakutenSource": ""
       },
+      "saas": true,
       "scripts": "tag\\.rmp\\.rakuten\\.com",
       "website": "https://www.rakuten.com/"
     },
@@ -17477,7 +17478,7 @@
         }
       },
       "js": {
-        "analyticsHost": "stats\\.uscreen\\.io" 
+        "analyticsHost": "stats\\.uscreen\\.io"
       },
       "icon": "Uscreen.svg",
       "website": "https://uscreen.tv/",
@@ -18274,6 +18275,7 @@
       "js": {
         "ITCLKQ": ""
       },
+      "saas": true,
       "scripts": "analytics\\.webgains\\.io",
       "website": "https://www.webgains.com/"
     },
@@ -19113,6 +19115,8 @@
         "X-Yottaa-Metrics": "",
         "X-Yottaa-Optimizations": ""
       },
+      "saas": true,
+      "pricing": ["low", "recurring"],
       "scripts": "cdn\\.yottaa\\.\\w+/",
       "website": "https://www.yottaa.com"
     },
